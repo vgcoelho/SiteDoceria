@@ -1,36 +1,36 @@
 @charset "UTF-8";
 
 body {
-    background-color: #f8b0c6
+    background-color: #aa5e5e;
 }
 
 p {
-    color: #522639;
+    color: #1c1c1d;
 }
 
 ul {
-    background-color: #a57971;
+    background-color: #cf5d11;
 }
 
 li {
-    color: #522639;
+    color: #d6360e;
 }
 
 h1 {
-    color: #522639;
-    background-color: #a57971;
+    color: #1f1d1d;
+    background-color: #da4736;
 }
 
 h2 {
-    color: #522639;
-    background-color: #a57971;
+    color: #111010;
+    background-color: #ad360b;
 }
 
 h3 {
-    color: #522639;
-    background-color: #a57971;
+    color: #161616;
+    background-color: #BF2A2ADD;
 }
 
 a {
-    color: #522639;
+    color: #232324;
 }
